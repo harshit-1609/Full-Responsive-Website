@@ -1,0 +1,44 @@
+
+#navbar{
+  flex-direction: column;
+}
+
+
+#home{
+  height: 800px;
+}
+
+
+
+#contact-box form{
+  width: 80%
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*services*/
+#services{
+  flex-direction: column;
+}
+
+
+
+
+
+
+#clients{
+  overflow: hidden;
+}
+#clients img{
+  width: 66px;
+  padding: 56px;
+}
